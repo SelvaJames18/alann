@@ -80,7 +80,7 @@ function App() {
                     Get Started
                   </Button>
                   <Button href="#about" variant="secondary" className="w-full">
-                    Explore
+                    explore
                   </Button>
                 </div>
               </div>
@@ -261,7 +261,7 @@ function App() {
                 A premium, AI-powered marketplace designed to simplify vehicle classifieds.
               </h2>
               <p className="mt-4 max-w-xl text-pretty text-base leading-relaxed text-slate-600">
-                ALANN helps buyers and sellers move faster with clean listings, verification cues,
+                ALANN helps buyers and sellers move faster with clean listing, verification cues,
                 and intelligent recommendations—so decisions feel confident, not exhausting.
               </p>
 
