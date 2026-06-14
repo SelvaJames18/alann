@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import {
   Bot, ShieldCheck, Zap, Lock, HeadphonesIcon,
-  Building2, Star, CheckCircle, ArrowRight,
+  Building2, Star, CheckCircle,
   Car, Smartphone, Sofa, Wrench, Upload, Cpu, Rocket
 } from "lucide-react";
 
