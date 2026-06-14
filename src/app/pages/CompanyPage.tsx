@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import { Building2, MapPin, Calendar, Shield, Users, Target, ArrowRight, CheckCircle, Globe, Briefcase } from "lucide-react";
+import { Building2, MapPin, Calendar, Shield, Users, Target, ArrowRight, CheckCircle, Briefcase } from "lucide-react";
 
 const purpleGrad = "linear-gradient(90deg, #5633ac, #9d4edd)";
 
