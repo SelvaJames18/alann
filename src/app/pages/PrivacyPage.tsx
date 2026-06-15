@@ -94,7 +94,6 @@ export function PrivacyPage() {
               <li>Request data portability where technically feasible</li>
               <li>Lodge a complaint with the UAE competent authority</li>
             </ul>
-            <p>To exercise these rights, contact us at <a href="mailto:legal@alann.ae" className="text-purple-400 hover:text-purple-300">legal@alann.ae</a>.</p>
           </LegalSection>
 
           <LegalSection title="8. Cookies">
@@ -104,8 +103,7 @@ export function PrivacyPage() {
           <LegalSection title="9. Contact Us">
             <p>For privacy-related questions or requests, contact:</p>
             <p><strong className="text-white">ALANN Enterprises LLC</strong></p>
-            <p>Dubai, United Arab Emirates</p>
-            <p>Email: <a href="mailto:legal@alann.ae" className="text-purple-400 hover:text-purple-300">legal@alann.ae</a></p>
+            <p>SHARJAH MEDIA CITY FREEZONE, Sharjah. UAE</p>
           </LegalSection>
         </div>
       </section>

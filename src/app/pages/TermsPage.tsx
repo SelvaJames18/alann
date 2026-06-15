@@ -34,7 +34,7 @@ export function TermsPage() {
         >
           <LegalSection title="1. Acceptance of Terms">
             <p>
-              These Terms of Service ("Terms") govern your access to and use of the ALANN.AE platform ("Platform") operated by ALANN Enterprises LLC, a company registered in the UAE Free Zone, Dubai, United Arab Emirates.
+              These Terms of Service ("Terms") govern your access to and use of the ALANN.AE platform ("Platform") operated by ALANN Enterprises LLC, a company registered in the UAE Free Zone, SHARJAH MEDIA CITY FREEZONE, Sharjah. UAE.
             </p>
             <p>
               By creating an account or using any part of the Platform, you agree to be bound by these Terms and our Privacy Policy. If you do not agree, you must not use the Platform.
@@ -105,8 +105,7 @@ export function TermsPage() {
           <LegalSection title="10. Contact">
             <p>For questions regarding these Terms:</p>
             <p><strong className="text-white">ALANN Enterprises LLC</strong></p>
-            <p>Dubai, United Arab Emirates</p>
-            <p>Email: <a href="mailto:legal@alann.ae" className="text-purple-400 hover:text-purple-300">legal@alann.ae</a></p>
+            <p>SHARJAH MEDIA CITY FREEZONE, Sharjah. UAE</p>
           </LegalSection>
         </div>
       </section>
