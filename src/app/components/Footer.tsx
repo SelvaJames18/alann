@@ -41,9 +41,9 @@ export function Footer() {
             </p>
 
             <div className="mt-6 flex flex-col gap-3">
-              <a href="mailto:Tharun@alann.ae" className="flex items-center gap-2 text-sm transition-colors hover:text-white" style={{ color: "#99a1af", fontFamily: "Poppins, sans-serif" }}>
+              <a href="mailto:tharun@alann.ae" className="flex items-center gap-2 text-sm transition-colors hover:text-white" style={{ color: "#99a1af", fontFamily: "Poppins, sans-serif" }}>
                 <Mail size={14} />
-                Tharun@alann.ae
+                tharun@alann.ae
               </a>
 
               <a href="tel:+971 505951024" className="flex items-center gap-2 text-sm transition-colors hover:text-white" style={{ color: "#99a1af", fontFamily: "Poppins, sans-serif" }}>
