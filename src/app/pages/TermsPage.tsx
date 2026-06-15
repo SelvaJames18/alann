@@ -22,9 +22,6 @@ export function TermsPage() {
           <FileText size={12} /> Legal
         </div>
         <h1 className="font-['Poppins',sans-serif] font-bold text-4xl md:text-5xl text-white mb-4">Terms of Service</h1>
-        <p className="font-['Poppins',sans-serif] text-sm" style={{ color: "#99a1af" }}>
-          Last updated: January 1, 2025 &nbsp;·&nbsp; ALANN Enterprises LLC
-        </p>
       </section>
 
       <section className="pb-24 px-6">
