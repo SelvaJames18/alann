@@ -111,8 +111,7 @@ export function CookiePage() {
           <LegalSection title="7. Contact">
             <p>For cookie-related questions:</p>
             <p><strong className="text-white">ALANN Enterprises LLC</strong></p>
-            <p>Dubai, United Arab Emirates</p>
-            <p>Email: <a href="mailto:legal@alann.ae" className="text-purple-400 hover:text-purple-300">legal@alann.ae</a></p>
+            <p>SHARJAH MEDIA CITY FREEZONE, Sharjah. UAE</p>
           </LegalSection>
         </div>
       </section>
