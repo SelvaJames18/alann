@@ -96,7 +96,7 @@ export function ContactPage() {
             <div className="flex flex-col gap-5 mb-10">
               {[
                 { icon: MapPin, label: "Business Address", value: "SHARJAH MEDIA CITY FREEZONE, Sharjah. UAE" },
-                { icon: Mail, label: "Legal Inquiries", value: "Tharun@alann.ae" },
+                { icon: Mail, label: "Legal Inquiries", value: "tharun@alann.ae" },
                 { icon: Phone, label: "Phone", value: "+971 505951024" },
                 { icon: Clock, label: "Support Hours", value: "24/7 — Always Available" },
               ].map(({ icon: Icon, label, value }) => (
