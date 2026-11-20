@@ -289,45 +289,6 @@ export function HomePage() {
         </div>
       </section>
 
-      {/* LEADERSHIP SECTION */}
-      <section className="py-20 px-6">
-        <div className="max-w-[1280px] mx-auto">
-          <div className="text-center mb-14">
-            <SectionLabel><Star size={12} /> Leadership</SectionLabel>
-            <h2 className="font-['Poppins',sans-serif] font-bold text-3xl md:text-4xl text-white">
-              Meet the Team Behind <GradientText>ALANN</GradientText>
-            </h2>
-            <p className="font-['Poppins',sans-serif] text-lg mt-4" style={{ color: "#99a1af" }}>
-              Experienced founders building the future of UAE classifieds
-            </p>
-          </div>
-          <div className="flex flex-wrap justify-center gap-6">
-            {[
-              { name: "Tharunjai Lokesh", role: "Founder & CEO", bio: "5+ Years of Marketing Experienced in developing and executing strategic marketing campaigns that drive brand growth and customer engagement. Skilled in digital marketing, market analysis, and lead generation, with a proven track record of delivering measurable business results." },
-            ].map(({ name, role, bio }) => (
-              <div
-                key={name}
-                className="w-full max-w-[340px] p-8 rounded-2xl flex flex-col items-center text-center gap-4"
-                style={{ background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)" }}
-              >
-                <div
-                  className="w-20 h-20 rounded-full flex items-center justify-center font-['Poppins',sans-serif] font-bold text-2xl text-white"
-                  style={{ backgroundImage: purpleGrad }}
-                >
-                  {name.charAt(0)}
-                </div>
-                <div>
-                  <p className="font-['Poppins',sans-serif] font-bold text-white text-lg">{name}</p>
-                  <p className="font-['Poppins',sans-serif] text-sm font-medium mt-1" style={{ color: "#9d4edd" }}>{role}</p>
-                </div>
-                <p className="font-['Poppins',sans-serif] text-sm leading-relaxed" style={{ color: "#99a1af" }}>{bio}</p>
-
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* CTA SECTION */}
       <section className="py-20 px-6">
         <div className="max-w-[800px] mx-auto text-center">
